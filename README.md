@@ -8,3 +8,5 @@ https://github.com/kamens/jQuery-menu-aim jQuery plugin to fire events when user
 # JAVASCRIPT
 
 # CSS
+
+https://css-tricks.com/snippets/css/complete-guide-grid/  A Complete Guide to Grid
