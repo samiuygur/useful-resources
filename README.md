@@ -1,2 +1,2 @@
 # useful-resources
-A bunch of usefull frontend resources 
+A bunch of useful frontend resources 
