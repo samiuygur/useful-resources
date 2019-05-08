@@ -1,5 +1,5 @@
 # USEFUL FRONTEND RESOURCES
-A bunch of useful frontend resources 
+A bunch of useful frontend resources and best practices
 
 # JS LIBRARIES
 
